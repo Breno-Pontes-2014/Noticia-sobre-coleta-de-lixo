@@ -2,7 +2,8 @@
 
 body{
     font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    text-align: end;
+    margin: 0px;
+    padding: 0px;
 }
 
 h1{
