@@ -1,9 +1,11 @@
 @charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
 
 body{
     font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    margin: 0px;
-    padding: 0px;
 }
 
 h1{
