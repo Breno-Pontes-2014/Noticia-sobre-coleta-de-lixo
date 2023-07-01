@@ -1,6 +1,6 @@
 @charset "UTF-8";
 *{
-    margin: 10px;
+    margin: -1px;
     padding: 10px;
 }
 
@@ -9,14 +9,17 @@ body{
 }
 
 h1{
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 38px;
+
 }
 p.subtítulo{
     font-size: 25px;
 }
 
 h2{
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 36px;
 }
